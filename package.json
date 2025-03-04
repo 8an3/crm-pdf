@@ -1,7 +1,7 @@
 {
   "name": "pdf",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "sideEffects": false,
   "scripts": {
     "dev": "vite",
